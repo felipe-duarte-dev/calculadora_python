@@ -1,0 +1,11 @@
+Exercício 1:
+1 - Criei o diretório projetosgit com o comando mkdir e em seguida entrei no diretório com o comando cd
+2 - Criei e entrei no diretório calculadora_python da mesma forma que o diretório projetosgit
+3 - Inicializei um repositório vazio do diretório calculadora_python com o comando "git init"
+4 - Utilizei o comando "ls -a" para visualizar o diretório oculto .git
+
+Excerício 2:
+1 - Com o comando touch criei um arquivo vazio com o nome README.md
+2 - Com o nano adicionei uma mensagem de texto ao arquivo README.md
+3 - Com o comando "git add ." adicionei o arquivo README.md a área de staging
+4 - Com o comando "git commit -m " "" adicionei o arquivo ao repositório 
